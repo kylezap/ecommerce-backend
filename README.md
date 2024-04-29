@@ -12,6 +12,7 @@
 
 ## Description
 This project is a backend for a sample e-commerce site. It creates routes and database calls for sample products. 
+[Video Walkthrough](https://drive.google.com/file/d/1hIGnEeFzkgaDPMuVlsOQm2dbAoOMafYF/view)
 
 ## Installation
 This app uses Express, Sequelize, and a Postgres database. Also included is dotenv package.
@@ -20,7 +21,7 @@ This app uses Express, Sequelize, and a Postgres database. Also included is dote
 This project can be used as the backed for an e-commerce site looking for dynamic database functionality and a fast user experience.
 
 ## License
-This is a MIT
+This is a MIT license
 
 ## Contributors
 Kyle Zapcic
